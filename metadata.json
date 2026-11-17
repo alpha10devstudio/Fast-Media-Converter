@@ -1,0 +1,6 @@
+{
+  "name": "3GP স্টুডিও — বাটন ফোন ভিডিও কনভার্টার",
+  "description": "MP4 থেকে বাটন ফোন (Nokia, Symphony, Walton, Itel) উপযোগী 3GP ভিডিও কনভার্টার ও কম্প্যাটিবিলিটি স্টুডিও।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
